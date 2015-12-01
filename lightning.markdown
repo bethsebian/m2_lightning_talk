@@ -1,38 +1,38 @@
 ## Islam in the Digital Age
 
 ####Why I care (1 slide)
-* Masters in Religious Studies
-* Impact of immigration and anti-terrorism policies on Muslims in Europe and the United States
-* Columbia Civil Rights Study
-* Issues in Europe
+* Completed master's in Religious Studies
+* Studied impact of immigration and anti-terrorism policies on Muslims in Europe and the United States
+* Important stories: Columbia U civil rights study, issues in Europe
 
-####Ground Rules (1 slide)
+####Ground Rules (1)
 * [Stendhal's three rules of religious understanding](https://en.wikipedia.org/wiki/Krister_Stendahl)
-* When trying to understand another religion, you should ask the adherents of that religion and not its enemies.
-* Don't compare your best to their worst.
-* Leave room for “holy envy.”
+* RULE 1: When trying to understand another religion, you should ask the adherents of that religion and not its enemies
+* RULE 2: Don't compare your best to their worst
+* RULE 3: Leave room for “holy envy”
 
-####Smartphone Usage (1 slide)
-* Rich Muslim-majority countries boast some of world’s highest rates of smartphone penetration, with the United Arab Emirates ahead at 61%.1
-* But even in poorer Muslim lands adoption is respectable: 26% in Egypt, not much below Germany’s 29%. More than a third of people in the Middle East now use the internet, slightly above the world average.1
+####Smartphone Usage (1)
+* Smartphone penetration: UAE and Saudi Arabia fill #1 and #3 positions (79.8% and 72.8%, compared to US at 56.4%
+* Egypt, etc low rates, but active
 
-####Overview of Tech and Religious Practice (1 slide)
-* Show mosques and halal businesses close to a user’s location.
-* Salah 3D: an iPhone guide to how to pray.
-* Quran Majeed: includes text and audio versions of the Koran not only in Arabic, but other languages. It has been downloaded more than 3m times.1
-* Salamworld, a Facebook for Muslims. Salamworld’s moderators will try to allay such fears by taking down photographs with too much flesh and deleting swear words.1
-* Online dating services
+####Overview of Tech and Religious Practice (1)
+* App 1: Shows mosques and halal businesses close to a user’s location
+* App 2: Salah 3D provides guidance/tutorials on prayer
+* App 3: Quran Majeed: includes text and audio versions of the Koran not only in Arabic, but other languages. It has been downloaded more than 3m times (The Economist)
+* App 4: Salamworld, a Facebook for Muslims. Salamworld’s moderators uphold religion standards by removing photographs with too much flesh and deleting swear words (The Economist)
+* App 5: Online dating services
 
-####Faith in Modern Society (5 slides)
-* Web decentralizes authority
-* Worshipping in Second Life
-* Muslim scholars at al-Azhar University in Cairo run an “Islamic Hotline”.
-* Manal Al-Sharif uploaded a video to YouTube showing herself driving (which duly went viral and earned her nine days in detention).1
-* [Indonesian fatwa to protect wildlife](http://www.theguardian.com/environment/2014/mar/05/indonesia-clerics-fatwa-illegal-wildlife-trade)
-* Sheik Ali Gomaa's [The Role of Religion in Preserving the Environment](http://www.greenprophet.com/2011/11/sheikh-ali-gomaa-green-muft/)
+####Faith in Modern Society (5)
+* Web decentralizes religious authority, promotes exchange and discussion
+* Example 1: Worshipping in Second Life
+* Example 2: Muslim scholars at al-Azhar University in Cairo run an “Islamic Hotline”.
+* Example 3: Manal Al-Sharif uploaded a video to YouTube showing herself driving (which duly went viral and earned her nine days in detention).1
+* Example 4: [Indonesian fatwa to protect wildlife](http://www.theguardian.com/environment/2014/mar/05/indonesia-clerics-fatwa-illegal-wildlife-trade)
+* Example 5: Sheik Ali Gomaa's [The Role of Religion in Preserving the Environment](http://www.greenprophet.com/2011/11/sheikh-ali-gomaa-green-muft/)
+* Example 6: Amir Ahmad Nasr's [conversion to Sufism](http://www.economist.com/node/21560541)
 
-####Parting Thoughts (1 slide)
-* Being able to study religious teachings for themselves, Muslims are also chipping away at the predominantly male, orthodox domination of Islamic thought.1
-* "Digital media will be to Islam what the printing press was to Christianity—and ultimately lead to a Reformation. “We’re still in the early stages,” he says, “but we’re going to see many eclectic versions of Islam.”1
+####Parting Thoughts (1)
+* "Being able to study religious teachings for themselves, Muslims are also chipping away at the predominantly male, orthodox domination of Islamic thought" (The Economist)
+* "Digital media will be to Islam what the printing press was to Christianity—and ultimately lead to a Reformation. “We’re still in the early stages,” he says, “but we’re going to see many eclectic versions of Islam" (The Economist)
 
-* 1 [The Economist: The Online Ummah](https://github.com/turingschool/data_structures_and_algorithms/tree/master/tries)
+1 [The Economist: The Online Ummah](https://github.com/turingschool/data_structures_and_algorithms/tree/master/tries)
